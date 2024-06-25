@@ -9,7 +9,7 @@ plt.title("sample")
 plt.xlabel("Students")
 plt.ylabel("Employee")
 
-
+ 
 # Give Some Value's
 
 x = [10,20,50]

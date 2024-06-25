@@ -3,5 +3,6 @@
 ```
 1] Explore Data Analysis
 2] Data Visualization
+3] Seaborn
 
 ```
