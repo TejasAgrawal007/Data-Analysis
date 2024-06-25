@@ -8,5 +8,7 @@
 5] Bar Chart
 6] Histrogram
 7] pie-Chart
+8] BoxPlot
+9] Heat-Map
 
 ```
